@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="titleOnBoarding">Seamless Detection</string>
+    <string name="descOnBoarding">Cancer detection made easy with single take with your camera. Open, snap and view the result with recommendation</string>
+    <string name="letStart">Let\'s Start</string>
+    <string name="titleFirstScreen">What\'s your name?</string>
+    <string name="descFirstScreen">Don’t worry we just want to know your name, so you can get full experience using our apps.</string>
+    <string name="etUname">Enter your beautiful name here</string>
+    <string name="proceed">Proceed</string>
+    <string name="exname">ex: Albus Percival Wulfric</string>
+    <string name="howdy">Howdy!</string>
+    <string name="titleHeader">Resma Adi Nugroho</string>
+    <string name="last_scan_history">Last scan history</string>
+    <string name="tanggal">17 Desember 2023</string>
+    <string name="scan_to_predict">Scan to Predict</string>
+    <string name="back">Back</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="recommendation_article">Recommendation Article</string>
+    <string name="you_probably">You probably</string>
+    <string name="have_a_s_s">have a %s %s</string>
+    <string name="no_history_yet_scan_now">No history yet. Scan now!</string>
+
+</resources>
